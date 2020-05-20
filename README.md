@@ -1,6 +1,19 @@
 # Dynamic-Programming-Tutorials
 
-# Some Dynamic Programming Patterns
+Those who don't remember the past are condemned to repeat it
+
+## Get started
+
+1. [Overlapping Subproblem Property](https://www.geeksforgeeks.org/dynamic-programming-set-1/)
+2. [Optimal Substructure Property](https://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
+3. [How to approach Dynamic Programming problems](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
+4. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoizatation/)
+
+## Videos
+
+[Back to Back SWE's DP playlist](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
+
+## Some Dynamic Programming Patterns for Interview
 
 ## Pattern 1: 0/1 Knapsack
 
@@ -54,3 +67,7 @@
 
 ## Also see
 [Top 20 DP problems for interview](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+
+## List of lists
+
+1. [DP resources](https://codeforces.com/blog/entry/67679)
