@@ -59,7 +59,7 @@ Those who don't remember the past are condemned to repeat it
 6. [Shortest Common Supersequence](https://www.geeksforgeeks.org/shortest-common-supersequence/)
 7. [Minimum deletions to make sequence sorted](https://www.geeksforgeeks.org/minimum-number-deletions-make-sorted-sequence/)
 8. [Longest repeating subsequence](https://www.geeksforgeeks.org/longest-repeating-subsequence/)
-9. Subsequence Pattern Matching  - // TODO
+9. [Subsequence Pattern Matching] 
 10. [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/)
 11. [Longest Alternating Subsequence](https://www.geeksforgeeks.org/longest-alternating-subsequence/)
 12. [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)
