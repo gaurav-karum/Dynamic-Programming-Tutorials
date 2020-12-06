@@ -11,8 +11,8 @@ Those who don't remember the past are condemned to repeat it
 
 ## Videos
 
-[Back to Back SWE's DP playlist](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
-[Aditya Verma's DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+1. [Back to Back SWE's DP playlist](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
+2. [Aditya Verma's DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 ## Some Dynamic Programming Patterns for Interview
 
